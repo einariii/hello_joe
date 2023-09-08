@@ -1,11 +1,12 @@
 ### A repository for code left by Joe Armstrong, the original creator of Erlang. 
 
-Anything you see here I have either found to be either a source of delight, or a source of insight and clarity. Almost always, it's both.
+Anything you see here I have found to be either a source of delight, or a source of insight. Almost always, it's both: joyful clarity onto a weird world of great code.
 
+This repository is meant to spread the pleasures of Erlang, and to act as an archive for at least some of its teachings.
 
 > **Programs**
 
-*`fav1.erl`* 
+*`universal_server.erl`*
 
 A program that creates a "universal server": a server that can become any server
 
