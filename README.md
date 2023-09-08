@@ -8,7 +8,7 @@ This repository is meant to spread the pleasures of Erlang, and to act as an arc
 
 *`universal_server.erl`*
 
-A program that creates a "universal server": a server that can become any server.
+A program that creates a "universal server": a server that can become any server
 
 [Source](https://joearms.github.io/#Draft%20of%20'%2Fcode%2Ffav1.erl')
 
