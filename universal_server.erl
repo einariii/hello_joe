@@ -1,4 +1,4 @@
--module(fav1).
+-module(universal_server).
 -export([universal_server/0, factorial_server/0, factorial/1, test/0]).
 
 universal_server() ->
